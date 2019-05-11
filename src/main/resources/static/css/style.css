@@ -1,0 +1,27 @@
+.hotel {
+	height: 100%;
+	background-image: url("/images/hotel2.jpg");
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.hotelBooked {
+	height: 100%;
+	background-image: url("/images/sky.jpg");
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.hotelTitle {
+	height: 100%;
+	background-image: url("/images/hotel.jpg");
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.bottom-buffer {
+	margin-bottom: 25px;
+}
